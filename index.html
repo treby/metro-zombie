@@ -10,10 +10,11 @@
 <!-- スクリプト部分 -->
 <script type="text/javascript">
     $( function() {
-        $( '#ajax-button' ) .click(
-            function() {
+        $( '.ajax-button' ) .click(
+            function(e) {
+                var railway_name = e.target.getAttribute('name');
                 $.ajax( {
-                    url: 'marunouchi.json',
+                    url: railway_name + '.json',
                     dataType : 'json',
                     success: function( data ) {
                         var message = jsonParser(data);
@@ -29,256 +30,6 @@
     /*
     * JSONデータ（リスト）をパースする関数です。
     */
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分1 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button1' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'hibiya.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-
-<!-- スクリプト部分2 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button2' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'ginza.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分3 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button3' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'touzai.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    /*
-    * JSONデータ（リスト）をパースする関数です。
-    */
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分4 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button4' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'chiyoda.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    /*
-    * JSONデータ（リスト）をパースする関数です。
-    */
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分5 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button5' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'yurakucho.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    /*
-    * JSONデータ（リスト）をパースする関数です。
-    */
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分6 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button6' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'hanzomon.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分7 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button7' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'nanboku.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
-    function jsonParser(data) {
-        var message = "";
-        var dataArray = data.station_l;
-        for(var count in dataArray){
-            message = message + '<li>'
-            message = message + dataArray[count].station_name;
-            message = message + '</li>';
-        }
-        return message;
-    }
-</script>
-<!-- スクリプト部分8 -->
-<script type="text/javascript">
-    $( function() {
-        $( '#ajax-button8' ) .click(
-            function() {
-                $.ajax( {
-                    url: 'hukutoshin.json',
-                    dataType : 'json',
-                    success: function( data ) {
-                        var message = jsonParser(data);
-                        $( '#sample-result' ).html( message );
-                    },
-                    error: function( data ) {
-                        $( '#sample-result' ).html( '<font color="red">読み込みNG(ChromeではNG)</font>' );
-                    }
-                } );
-            }
-        );
-    } );
     function jsonParser(data) {
         var message = "";
         var dataArray = data.station_l;
@@ -295,15 +46,15 @@
 <body>
 <h1>メトロ路線別駅名一覧</h1>
 <p>
-    <input type="button" id="ajax-button" value="丸の内線" />
-    <input type="button" id="ajax-button1" value="日比谷線" />
-    <input type="button" id="ajax-button2" value="銀座線" />
-    <input type="button" id="ajax-button3" value="東西線" />
-    <input type="button" id="ajax-button4" value="千代田線" />
-    <input type="button" id="ajax-button5" value="有楽町線" />
-    <input type="button" id="ajax-button6" value="半蔵門線" />
-    <input type="button" id="ajax-button7" value="南北線" />
-    <input type="button" id="ajax-button8" value="副都心線" />
+    <input type="button" class="ajax-button" value="丸の内線" name="marunouchi" />
+    <input type="button" class="ajax-button" value="日比谷線" name="hibiya" />
+    <input type="button" class="ajax-button" value="銀座線" name="ginza" />
+    <input type="button" class="ajax-button" value="東西線" name="touzai" />
+    <input type="button" class="ajax-button" value="千代田線" name="chiyoda" />
+    <input type="button" class="ajax-button" value="有楽町線" name="yurakucho" />
+    <input type="button" class="ajax-button" value="半蔵門線" name="hanzomon" />
+    <input type="button" class="ajax-button" value="南北線" name="nanboku" />
+    <input type="button" class="ajax-button" value="副都心線" name="hukutoshin" />
 </p>
 <div id="station">
     <ul id="sample-result">
