@@ -1,0 +1,142 @@
+{
+    "line_cd": 28009, 
+    "line_lat": 35.71029971840751, 
+    "line_lon": 139.73433187075705, 
+    "line_name": "東京メトロ南北線", 
+    "line_zoom": 12, 
+    "station_l": [
+        {
+            "lat": 35.783417, 
+            "lon": 139.722103, 
+            "station_cd": 2800901, 
+            "station_g_cd": 2800901, 
+            "station_name": "赤羽岩淵"
+        }, 
+        {
+            "lat": 35.777948, 
+            "lon": 139.732599, 
+            "station_cd": 2800902, 
+            "station_g_cd": 2800902, 
+            "station_name": "志茂"
+        }, 
+        {
+            "lat": 35.765172, 
+            "lon": 139.735933, 
+            "station_cd": 2800903, 
+            "station_g_cd": 2800903, 
+            "station_name": "王子神谷"
+        }, 
+        {
+            "lat": 35.753966, 
+            "lon": 139.737618, 
+            "station_cd": 2800904, 
+            "station_g_cd": 1133212, 
+            "station_name": "王子"
+        }, 
+        {
+            "lat": 35.746008, 
+            "lon": 139.742322, 
+            "station_cd": 2800905, 
+            "station_g_cd": 2800905, 
+            "station_name": "西ケ原"
+        }, 
+        {
+            "lat": 35.736959, 
+            "lon": 139.746442, 
+            "station_cd": 2800906, 
+            "station_g_cd": 1130215, 
+            "station_name": "駒込"
+        }, 
+        {
+            "lat": 35.724155, 
+            "lon": 139.753828, 
+            "station_cd": 2800907, 
+            "station_g_cd": 2800907, 
+            "station_name": "本駒込"
+        }, 
+        {
+            "lat": 35.717633, 
+            "lon": 139.758025, 
+            "station_cd": 2800908, 
+            "station_g_cd": 2800908, 
+            "station_name": "東大前"
+        }, 
+        {
+            "lat": 35.707898, 
+            "lon": 139.751864, 
+            "station_cd": 2800909, 
+            "station_g_cd": 2800204, 
+            "station_name": "後楽園"
+        }, 
+        {
+            "lat": 35.701934, 
+            "lon": 139.743669, 
+            "station_cd": 2800910, 
+            "station_g_cd": 1131205, 
+            "station_name": "飯田橋"
+        }, 
+        {
+            "lat": 35.691295, 
+            "lon": 139.736642, 
+            "station_cd": 2800911, 
+            "station_g_cd": 1131206, 
+            "station_name": "市ケ谷"
+        }, 
+        {
+            "lat": 35.686032, 
+            "lon": 139.72955, 
+            "station_cd": 2800912, 
+            "station_g_cd": 1131102, 
+            "station_name": "四ツ谷"
+        }, 
+        {
+            "lat": 35.678757, 
+            "lon": 139.740258, 
+            "station_cd": 2800913, 
+            "station_g_cd": 2800115, 
+            "station_name": "永田町"
+        }, 
+        {
+            "lat": 35.673621, 
+            "lon": 139.741419, 
+            "station_cd": 2800914, 
+            "station_g_cd": 2800114, 
+            "station_name": "溜池山王"
+        }, 
+        {
+            "lat": 35.665595, 
+            "lon": 139.739, 
+            "station_cd": 2800915, 
+            "station_g_cd": 2800915, 
+            "station_name": "六本木一丁目"
+        }, 
+        {
+            "lat": 35.654682, 
+            "lon": 139.737051, 
+            "station_cd": 2800916, 
+            "station_g_cd": 2800916, 
+            "station_name": "麻布十番"
+        }, 
+        {
+            "lat": 35.642903, 
+            "lon": 139.734104, 
+            "station_cd": 2800917, 
+            "station_g_cd": 2800917, 
+            "station_name": "白金高輪"
+        }, 
+        {
+            "lat": 35.637917, 
+            "lon": 139.726133, 
+            "station_cd": 2800918, 
+            "station_g_cd": 2800918, 
+            "station_name": "白金台"
+        }, 
+        {
+            "lat": 35.633272, 
+            "lon": 139.7155, 
+            "station_cd": 2800919, 
+            "station_g_cd": 1130203, 
+            "station_name": "目黒"
+        }
+    ]
+}

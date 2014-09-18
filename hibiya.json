@@ -1,0 +1,156 @@
+{
+    "line_cd": 28003, 
+    "line_lat": 35.69469233873322, 
+    "line_lon": 139.76790012172296, 
+    "line_name": "東京メトロ日比谷線", 
+    "line_zoom": 12, 
+    "station_l": [
+        {
+            "lat": 35.748916, 
+            "lon": 139.804276, 
+            "station_cd": 2800301, 
+            "station_g_cd": 1132005, 
+            "station_name": "北千住"
+        }, 
+        {
+            "lat": 35.733398, 
+            "lon": 139.799273, 
+            "station_cd": 2800302, 
+            "station_g_cd": 1132004, 
+            "station_name": "南千住"
+        }, 
+        {
+            "lat": 35.729623, 
+            "lon": 139.791485, 
+            "station_cd": 2800303, 
+            "station_g_cd": 2800303, 
+            "station_name": "三ノ輪"
+        }, 
+        {
+            "lat": 35.719862, 
+            "lon": 139.783924, 
+            "station_cd": 2800304, 
+            "station_g_cd": 2800304, 
+            "station_name": "入谷"
+        }, 
+        {
+            "lat": 35.711482, 
+            "lon": 139.777122, 
+            "station_cd": 2800305, 
+            "station_g_cd": 1130220, 
+            "station_name": "上野"
+        }, 
+        {
+            "lat": 35.706649, 
+            "lon": 139.776138, 
+            "station_cd": 2800306, 
+            "station_g_cd": 1130221, 
+            "station_name": "仲御徒町"
+        }, 
+        {
+            "lat": 35.698162, 
+            "lon": 139.775459, 
+            "station_cd": 2800307, 
+            "station_g_cd": 1130222, 
+            "station_name": "秋葉原"
+        }, 
+        {
+            "lat": 35.690737, 
+            "lon": 139.778433, 
+            "station_cd": 2800308, 
+            "station_g_cd": 2800308, 
+            "station_name": "小伝馬町"
+        }, 
+        {
+            "lat": 35.686307, 
+            "lon": 139.782285, 
+            "station_cd": 2800309, 
+            "station_g_cd": 2800309, 
+            "station_name": "人形町"
+        }, 
+        {
+            "lat": 35.679752, 
+            "lon": 139.780005, 
+            "station_cd": 2800310, 
+            "station_g_cd": 2800310, 
+            "station_name": "茅場町"
+        }, 
+        {
+            "lat": 35.674851, 
+            "lon": 139.776982, 
+            "station_cd": 2800311, 
+            "station_g_cd": 1132602, 
+            "station_name": "八丁堀"
+        }, 
+        {
+            "lat": 35.668115, 
+            "lon": 139.772603, 
+            "station_cd": 2800312, 
+            "station_g_cd": 2800312, 
+            "station_name": "築地"
+        }, 
+        {
+            "lat": 35.669464, 
+            "lon": 139.767253, 
+            "station_cd": 2800313, 
+            "station_g_cd": 2800313, 
+            "station_name": "東銀座"
+        }, 
+        {
+            "lat": 35.671989, 
+            "lon": 139.763965, 
+            "station_cd": 2800314, 
+            "station_g_cd": 2800111, 
+            "station_name": "銀座"
+        }, 
+        {
+            "lat": 35.67459, 
+            "lon": 139.76017, 
+            "station_cd": 2800315, 
+            "station_g_cd": 2800315, 
+            "station_name": "日比谷"
+        }, 
+        {
+            "lat": 35.673838, 
+            "lon": 139.750899, 
+            "station_cd": 2800316, 
+            "station_g_cd": 2800211, 
+            "station_name": "霞ケ関"
+        }, 
+        {
+            "lat": 35.662978, 
+            "lon": 139.745069, 
+            "station_cd": 2800317, 
+            "station_g_cd": 2800317, 
+            "station_name": "神谷町"
+        }, 
+        {
+            "lat": 35.662836, 
+            "lon": 139.731443, 
+            "station_cd": 2800318, 
+            "station_g_cd": 2800318, 
+            "station_name": "六本木"
+        }, 
+        {
+            "lat": 35.652279, 
+            "lon": 139.722202, 
+            "station_cd": 2800319, 
+            "station_g_cd": 2800319, 
+            "station_name": "広尾"
+        }, 
+        {
+            "lat": 35.647332, 
+            "lon": 139.708988, 
+            "station_cd": 2800320, 
+            "station_g_cd": 1130204, 
+            "station_name": "恵比寿"
+        }, 
+        {
+            "lat": 35.643854, 
+            "lon": 139.698621, 
+            "station_cd": 2800321, 
+            "station_g_cd": 2600103, 
+            "station_name": "中目黒"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "line_cd": 28005, 
+    "line_lat": 35.723011671551085, 
+    "line_lon": 139.7558611955078, 
+    "line_name": "東京メトロ千代田線", 
+    "line_zoom": 12, 
+    "station_l": [
+        {
+            "lat": 35.777117, 
+            "lon": 139.832035, 
+            "station_cd": 2800501, 
+            "station_g_cd": 2800501, 
+            "station_name": "北綾瀬"
+        }, 
+        {
+            "lat": 35.762222, 
+            "lon": 139.825019, 
+            "station_cd": 2800502, 
+            "station_g_cd": 1132006, 
+            "station_name": "綾瀬"
+        }, 
+        {
+            "lat": 35.748916, 
+            "lon": 139.804276, 
+            "station_cd": 2800503, 
+            "station_g_cd": 1132005, 
+            "station_name": "北千住"
+        }, 
+        {
+            "lat": 35.742733, 
+            "lon": 139.780501, 
+            "station_cd": 2800504, 
+            "station_g_cd": 2300104, 
+            "station_name": "町屋"
+        }, 
+        {
+            "lat": 35.732257, 
+            "lon": 139.766511, 
+            "station_cd": 2800505, 
+            "station_g_cd": 1130217, 
+            "station_name": "西日暮里"
+        }, 
+        {
+            "lat": 35.725549, 
+            "lon": 139.763243, 
+            "station_cd": 2800506, 
+            "station_g_cd": 2800506, 
+            "station_name": "千駄木"
+        }, 
+        {
+            "lat": 35.7174, 
+            "lon": 139.765655, 
+            "station_cd": 2800507, 
+            "station_g_cd": 2800507, 
+            "station_name": "根津"
+        }, 
+        {
+            "lat": 35.708243, 
+            "lon": 139.769916, 
+            "station_cd": 2800508, 
+            "station_g_cd": 2800508, 
+            "station_name": "湯島"
+        }, 
+        {
+            "lat": 35.698072, 
+            "lon": 139.766014, 
+            "station_cd": 2800509, 
+            "station_g_cd": 1131203, 
+            "station_name": "新御茶ノ水"
+        }, 
+        {
+            "lat": 35.686154, 
+            "lon": 139.763399, 
+            "station_cd": 2800510, 
+            "station_g_cd": 2800208, 
+            "station_name": "大手町"
+        }, 
+        {
+            "lat": 35.681071, 
+            "lon": 139.761948, 
+            "station_cd": 2800511, 
+            "station_g_cd": 2800511, 
+            "station_name": "二重橋前"
+        }, 
+        {
+            "lat": 35.674241, 
+            "lon": 139.758732, 
+            "station_cd": 2800512, 
+            "station_g_cd": 2800315, 
+            "station_name": "日比谷"
+        }, 
+        {
+            "lat": 35.673838, 
+            "lon": 139.750899, 
+            "station_cd": 2800513, 
+            "station_g_cd": 2800211, 
+            "station_name": "霞ケ関"
+        }, 
+        {
+            "lat": 35.67393, 
+            "lon": 139.745219, 
+            "station_cd": 2800514, 
+            "station_g_cd": 2800212, 
+            "station_name": "国会議事堂前"
+        }, 
+        {
+            "lat": 35.67323, 
+            "lon": 139.738348, 
+            "station_cd": 2800515, 
+            "station_g_cd": 2800515, 
+            "station_name": "赤坂"
+        }, 
+        {
+            "lat": 35.666572, 
+            "lon": 139.726215, 
+            "station_cd": 2800516, 
+            "station_g_cd": 2800516, 
+            "station_name": "乃木坂"
+        }, 
+        {
+            "lat": 35.665247, 
+            "lon": 139.712314, 
+            "station_cd": 2800517, 
+            "station_g_cd": 2800118, 
+            "station_name": "表参道"
+        }, 
+        {
+            "lat": 35.669071, 
+            "lon": 139.703995, 
+            "station_cd": 2800518, 
+            "station_g_cd": 1130206, 
+            "station_name": "明治神宮前〈原宿〉"
+        }, 
+        {
+            "lat": 35.669187, 
+            "lon": 139.689099, 
+            "station_cd": 2800519, 
+            "station_g_cd": 2500104, 
+            "station_name": "代々木公園"
+        }, 
+        {
+            "lat": 35.669159, 
+            "lon": 139.680153, 
+            "station_cd": 2800520, 
+            "station_g_cd": 2500105, 
+            "station_name": "代々木上原"
+        }
+    ]
+}

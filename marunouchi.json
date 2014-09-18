@@ -1,0 +1,205 @@
+{
+    "line_cd": 28002, 
+    "line_lat": 35.70518513577206, 
+    "line_lon": 139.70043660044496, 
+    "line_name": "東京メトロ丸ノ内線", 
+    "line_zoom": 12, 
+    "station_l": [
+        {
+            "lat": 35.730256, 
+            "lon": 139.711086, 
+            "station_cd": 2800201, 
+            "station_g_cd": 1130212, 
+            "station_name": "池袋"
+        }, 
+        {
+            "lat": 35.72569, 
+            "lon": 139.729971, 
+            "station_cd": 2800202, 
+            "station_g_cd": 2800202, 
+            "station_name": "新大塚"
+        }, 
+        {
+            "lat": 35.716989, 
+            "lon": 139.737184, 
+            "station_cd": 2800203, 
+            "station_g_cd": 2800203, 
+            "station_name": "茗荷谷"
+        }, 
+        {
+            "lat": 35.707898, 
+            "lon": 139.751864, 
+            "station_cd": 2800204, 
+            "station_g_cd": 2800204, 
+            "station_name": "後楽園"
+        }, 
+        {
+            "lat": 35.706671, 
+            "lon": 139.759914, 
+            "station_cd": 2800205, 
+            "station_g_cd": 2800205, 
+            "station_name": "本郷三丁目"
+        }, 
+        {
+            "lat": 35.700614, 
+            "lon": 139.763952, 
+            "station_cd": 2800206, 
+            "station_g_cd": 1131203, 
+            "station_name": "御茶ノ水"
+        }, 
+        {
+            "lat": 35.695434, 
+            "lon": 139.767575, 
+            "station_cd": 2800207, 
+            "station_g_cd": 2800207, 
+            "station_name": "淡路町"
+        }, 
+        {
+            "lat": 35.686564, 
+            "lon": 139.7662, 
+            "station_cd": 2800208, 
+            "station_g_cd": 2800208, 
+            "station_name": "大手町"
+        }, 
+        {
+            "lat": 35.681753, 
+            "lon": 139.764708, 
+            "station_cd": 2800209, 
+            "station_g_cd": 1130101, 
+            "station_name": "東京"
+        }, 
+        {
+            "lat": 35.671989, 
+            "lon": 139.763965, 
+            "station_cd": 2800210, 
+            "station_g_cd": 2800111, 
+            "station_name": "銀座"
+        }, 
+        {
+            "lat": 35.673838, 
+            "lon": 139.750899, 
+            "station_cd": 2800211, 
+            "station_g_cd": 2800211, 
+            "station_name": "霞ケ関"
+        }, 
+        {
+            "lat": 35.67393, 
+            "lon": 139.745219, 
+            "station_cd": 2800212, 
+            "station_g_cd": 2800212, 
+            "station_name": "国会議事堂前"
+        }, 
+        {
+            "lat": 35.677021, 
+            "lon": 139.737047, 
+            "station_cd": 2800213, 
+            "station_g_cd": 2800115, 
+            "station_name": "赤坂見附"
+        }, 
+        {
+            "lat": 35.684586, 
+            "lon": 139.729947, 
+            "station_cd": 2800214, 
+            "station_g_cd": 1131102, 
+            "station_name": "四ツ谷"
+        }, 
+        {
+            "lat": 35.687958, 
+            "lon": 139.720103, 
+            "station_cd": 2800215, 
+            "station_g_cd": 2800215, 
+            "station_name": "四谷三丁目"
+        }, 
+        {
+            "lat": 35.688588, 
+            "lon": 139.71069, 
+            "station_cd": 2800216, 
+            "station_g_cd": 2800216, 
+            "station_name": "新宿御苑前"
+        }, 
+        {
+            "lat": 35.690847, 
+            "lon": 139.704895, 
+            "station_cd": 2800217, 
+            "station_g_cd": 2800217, 
+            "station_name": "新宿三丁目"
+        }, 
+        {
+            "lat": 35.69235, 
+            "lon": 139.700711, 
+            "station_cd": 2800218, 
+            "station_g_cd": 1130208, 
+            "station_name": "新宿"
+        }, 
+        {
+            "lat": 35.694298, 
+            "lon": 139.692778, 
+            "station_cd": 2800219, 
+            "station_g_cd": 2800219, 
+            "station_name": "西新宿"
+        }, 
+        {
+            "lat": 35.69792, 
+            "lon": 139.68291, 
+            "station_cd": 2800220, 
+            "station_g_cd": 2800220, 
+            "station_name": "中野坂上"
+        }, 
+        {
+            "lat": 35.697491, 
+            "lon": 139.66903, 
+            "station_cd": 2800221, 
+            "station_g_cd": 2800221, 
+            "station_name": "新中野"
+        }, 
+        {
+            "lat": 35.697802, 
+            "lon": 139.657822, 
+            "station_cd": 2800222, 
+            "station_g_cd": 2800222, 
+            "station_name": "東高円寺"
+        }, 
+        {
+            "lat": 35.697985, 
+            "lon": 139.648068, 
+            "station_cd": 2800223, 
+            "station_g_cd": 2800223, 
+            "station_name": "新高円寺"
+        }, 
+        {
+            "lat": 35.699624, 
+            "lon": 139.63576, 
+            "station_cd": 2800224, 
+            "station_g_cd": 2800224, 
+            "station_name": "南阿佐ケ谷"
+        }, 
+        {
+            "lat": 35.704304, 
+            "lon": 139.620116, 
+            "station_cd": 2800225, 
+            "station_g_cd": 1131217, 
+            "station_name": "荻窪"
+        }, 
+        {
+            "lat": 35.692123, 
+            "lon": 139.673997, 
+            "station_cd": 2800226, 
+            "station_g_cd": 2800226, 
+            "station_name": "中野新橋"
+        }, 
+        {
+            "lat": 35.690514, 
+            "lon": 139.666933, 
+            "station_cd": 2800227, 
+            "station_g_cd": 2800227, 
+            "station_name": "中野富士見町"
+        }, 
+        {
+            "lat": 35.683496, 
+            "lon": 139.656498, 
+            "station_cd": 2800228, 
+            "station_g_cd": 2800228, 
+            "station_name": "方南町"
+        }
+    ]
+}

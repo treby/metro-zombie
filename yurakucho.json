@@ -1,0 +1,177 @@
+{
+    "line_cd": 28006, 
+    "line_lat": 35.73316551916096, 
+    "line_lon": 139.70420434309563, 
+    "line_name": "東京メトロ有楽町線", 
+    "line_zoom": 11, 
+    "station_l": [
+        {
+            "lat": 35.788507, 
+            "lon": 139.612434, 
+            "station_cd": 2800601, 
+            "station_g_cd": 2100111, 
+            "station_name": "和光市"
+        }, 
+        {
+            "lat": 35.776557, 
+            "lon": 139.631497, 
+            "station_cd": 2800602, 
+            "station_g_cd": 2100110, 
+            "station_name": "地下鉄成増"
+        }, 
+        {
+            "lat": 35.769939, 
+            "lon": 139.644021, 
+            "station_cd": 2800603, 
+            "station_g_cd": 2100109, 
+            "station_name": "地下鉄赤塚"
+        }, 
+        {
+            "lat": 35.757863, 
+            "lon": 139.653762, 
+            "station_cd": 2800604, 
+            "station_g_cd": 2800604, 
+            "station_name": "平和台"
+        }, 
+        {
+            "lat": 35.74955, 
+            "lon": 139.665567, 
+            "station_cd": 2800605, 
+            "station_g_cd": 2800605, 
+            "station_name": "氷川台"
+        }, 
+        {
+            "lat": 35.743803, 
+            "lon": 139.678572, 
+            "station_cd": 2800606, 
+            "station_g_cd": 2200301, 
+            "station_name": "小竹向原"
+        }, 
+        {
+            "lat": 35.738229, 
+            "lon": 139.689271, 
+            "station_cd": 2800607, 
+            "station_g_cd": 2800607, 
+            "station_name": "千川"
+        }, 
+        {
+            "lat": 35.73323, 
+            "lon": 139.698715, 
+            "station_cd": 2800608, 
+            "station_g_cd": 2800608, 
+            "station_name": "要町"
+        }, 
+        {
+            "lat": 35.729565, 
+            "lon": 139.710088, 
+            "station_cd": 2800609, 
+            "station_g_cd": 1130212, 
+            "station_name": "池袋"
+        }, 
+        {
+            "lat": 35.725732, 
+            "lon": 139.719546, 
+            "station_cd": 2800610, 
+            "station_g_cd": 2800610, 
+            "station_name": "東池袋"
+        }, 
+        {
+            "lat": 35.719044, 
+            "lon": 139.72754, 
+            "station_cd": 2800611, 
+            "station_g_cd": 2800611, 
+            "station_name": "護国寺"
+        }, 
+        {
+            "lat": 35.709495, 
+            "lon": 139.733538, 
+            "station_cd": 2800612, 
+            "station_g_cd": 2800612, 
+            "station_name": "江戸川橋"
+        }, 
+        {
+            "lat": 35.701934, 
+            "lon": 139.743669, 
+            "station_cd": 2800613, 
+            "station_g_cd": 1131205, 
+            "station_name": "飯田橋"
+        }, 
+        {
+            "lat": 35.691958, 
+            "lon": 139.73647, 
+            "station_cd": 2800614, 
+            "station_g_cd": 1131206, 
+            "station_name": "市ケ谷"
+        }, 
+        {
+            "lat": 35.684006, 
+            "lon": 139.737613, 
+            "station_cd": 2800615, 
+            "station_g_cd": 2800615, 
+            "station_name": "麹町"
+        }, 
+        {
+            "lat": 35.678757, 
+            "lon": 139.740258, 
+            "station_cd": 2800616, 
+            "station_g_cd": 2800115, 
+            "station_name": "永田町"
+        }, 
+        {
+            "lat": 35.677405, 
+            "lon": 139.75149, 
+            "station_cd": 2800617, 
+            "station_g_cd": 2800617, 
+            "station_name": "桜田門"
+        }, 
+        {
+            "lat": 35.675714, 
+            "lon": 139.763265, 
+            "station_cd": 2800618, 
+            "station_g_cd": 1130225, 
+            "station_name": "有楽町"
+        }, 
+        {
+            "lat": 35.67435, 
+            "lon": 139.767045, 
+            "station_cd": 2800619, 
+            "station_g_cd": 2800619, 
+            "station_name": "銀座一丁目"
+        }, 
+        {
+            "lat": 35.670462, 
+            "lon": 139.773711, 
+            "station_cd": 2800620, 
+            "station_g_cd": 2800620, 
+            "station_name": "新富町"
+        }, 
+        {
+            "lat": 35.664871, 
+            "lon": 139.784233, 
+            "station_cd": 2800621, 
+            "station_g_cd": 2800621, 
+            "station_name": "月島"
+        }, 
+        {
+            "lat": 35.654908, 
+            "lon": 139.79621, 
+            "station_cd": 2800622, 
+            "station_g_cd": 2800622, 
+            "station_name": "豊洲"
+        }, 
+        {
+            "lat": 35.645576, 
+            "lon": 139.81052, 
+            "station_cd": 2800623, 
+            "station_g_cd": 2800623, 
+            "station_name": "辰巳"
+        }, 
+        {
+            "lat": 35.645832, 
+            "lon": 139.826254, 
+            "station_cd": 2800624, 
+            "station_g_cd": 1132605, 
+            "station_name": "新木場"
+        }
+    ]
+}
